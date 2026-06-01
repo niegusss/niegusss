@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer%20for%20Startups-111827?style=flat-square&logo=anthropic&logoColor=white" alt="role" />
   <img src="https://img.shields.io/badge/Full--stack-4f46e5?style=flat-square" alt="full-stack" />
+  <img src="https://img.shields.io/badge/AI%20Engineer%20for%20Startups-111827?style=flat-square&logo=anthropic&logoColor=white" alt="role" />
   <img src="https://img.shields.io/badge/Claude%20Code%20enthusiast-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="claude code" />
   <img src="https://img.shields.io/badge/Rzesz%C3%B3w%2C%20Poland-7c3aed?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
 </p>
