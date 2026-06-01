@@ -17,12 +17,12 @@
 
 ## 👋 About
 
-- 🚀 I build **products for startups** — proof of concept and MVP, fast.
+- 🚀 I build **products for startups** - proof of concept and MVP, fast.
 - ⚡ **Output over noise.** Ship in weeks, not quarters; decisions in hours, not weeks.
-- 🤖 **Claude Code enthusiast** & AI-driven developer — *Claude Code in Action* certified (Anthropic, 2026).
+- 🤖 **Claude Code enthusiast** & AI-driven developer - *Claude Code in Action* certified (Anthropic, 2026).
 - 🧱 **Type-safe end to end:** React · TypeScript · Next.js · Supabase.
-- 🦀 Tinkering with **desktop apps** (Tauri + Rust) — see *Branchnote* below.
-- 🌍 Based in Rzeszów, Poland — working worldwide.
+- 🦀 Tinkering with **desktop apps** (Tauri + Rust) - see *Branchnote* below.
+- 🌍 Based in Rzeszów, Poland - working worldwide.
 
 ## 🛠️ Tech & tools
 
@@ -60,7 +60,7 @@
 ## 📌 Featured project
 
 ### [Branchnote](https://github.com/niegusss/branchnote)
-A **Git-native specification workspace for AI coding agents** — a desktop control plane between human intent and AI implementation. Built with **Tauri + Rust + React + TypeScript**. An experimental project exploring spec-driven development.
+A **Git-native specification workspace for AI coding agents** - a desktop control plane between human intent and AI implementation. Built with **Tauri + Rust + React + TypeScript**. An experimental project exploring spec-driven development.
 
 ## 🤝 Connect
 
