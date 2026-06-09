@@ -17,11 +17,12 @@
 
 ## 👋 About
 
-- 🚀 I build **products for startups** - proof of concept and MVP, fast.
+- 🚀 I build **AI-powered products for startups** - proof of concept and MVP, fast.
 - ⚡ **Output over noise.** Ship in weeks, not quarters; decisions in hours, not weeks.
 - 🤖 **Claude Code enthusiast** & AI-driven developer - *Claude Code in Action* certified (Anthropic, 2026).
 - 🧱 **Type-safe end to end:** React · TypeScript · Next.js · Supabase.
 - 🦀 Tinkering with **desktop apps** (Tauri + Rust) - see *Branchnote* below.
+- 👁️ Exploring **real-time vision systems** - from camera feeds to actionable insights with modern CV and AI pipelines.
 - 🌍 Based in Rzeszów, Poland - working worldwide.
 
 ## 🛠️ Tech & tools
